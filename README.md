@@ -163,13 +163,13 @@ void loop() {
 }
 ```
 # CIRCUIT DIAGRAM:
-![WhatsApp Image 2025-10-28 at 11 30 15_0faa6040](https://github.com/user-attachments/assets/3a73d15c-f5fb-4396-8b03-6296da30f463)
+<img width="1280" height="1122" alt="image" src="https://github.com/user-attachments/assets/8b4197d3-33a2-42a6-9e63-2f67a6a1c6a4" />
+
 
 # OUTPUT:
-
-
-
 ![WhatsApp Image 2025-10-28 at 09 44 10_6e7b4c95](https://github.com/user-attachments/assets/685efe5d-60ae-4e20-abb1-8f96c8983681)
+<img width="1285" height="333" alt="image" src="https://github.com/user-attachments/assets/0c569f77-beb7-4ad3-9748-b7e3ece593cd" />
+
 
 
 # RESULT:
