@@ -169,9 +169,7 @@ void loop() {
 # OUTPUT:
 ![WhatsApp Image 2025-10-28 at 09 44 10_6e7b4c95](https://github.com/user-attachments/assets/685efe5d-60ae-4e20-abb1-8f96c8983681)
 <img width="1020" height="656" alt="image" src="https://github.com/user-attachments/assets/d206bae7-0e7f-4868-8d29-b684c8b51336" />
-<img width="1033" height="291" alt="image" src="https://github.com/user-attachments/assets/052c60d4-a923-4f53-bb78-17dbd2344f9e" />
-
-
+<img width="999" height="256" alt="image" src="https://github.com/user-attachments/assets/a2b79ebe-218c-42e5-b118-590bc6d95f30" />
 
 
 # RESULT:
